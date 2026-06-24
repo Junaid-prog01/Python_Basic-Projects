@@ -1,9 +1,9 @@
 contact_info = {
     'Junaid' : '996655886',
-    'mother' : '445511225',
-    'father' : '556658856',
-    'sister' : '446626941',
-    'other' : '115511477'
+    'number1' : '445511225',
+    'number2' : '556658856',
+    'number3' : '446626941',
+    'number4' : '115511477'
 }
 # print(contact_info['Junaid'])
 while True :
