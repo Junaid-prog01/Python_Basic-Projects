@@ -20,5 +20,5 @@ class Bank :
         return f"Your balance is {self.balance}"
     
 
-man1 = Bank("json", 45259575, 10000)                                                 
-print(man1)
+account1 = Bank("json", 45259575, 10000)                                                 
+print(account1)
